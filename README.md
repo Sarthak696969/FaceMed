@@ -108,13 +108,13 @@ or get a free cloud database cluster from https://www.mongodb.com/
 
 Now run the following command in the facemed-main directory to run the app.
 
+```
+npm start
+```
+
 ## Team CyberDawgs
 Sarthak Jha
 Himanshu Wadhwa
 Akshaer Goyal
-
-```
-npm start
-```
 
 <br/>
